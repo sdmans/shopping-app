@@ -1,5 +1,5 @@
 # shopping-app
-**A simple grocery shopping application for roommates**
+*A simple grocery shopping application for roommates*
 
 * *Currently in the planning phase for this new project* *
 
