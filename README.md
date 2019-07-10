@@ -23,7 +23,13 @@ Notes: string
 LastOrdered:string
 
 *Concepts and Designs*
+Main Page
+
+Login View
+
 Item Submission Form
+
+
 
 Here's what I'm planning to use!
 
