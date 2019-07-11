@@ -17,11 +17,11 @@ Users can create a custom recipe that automatically adds all items to the list.
 
 *Item Schema* - What should each item object look like?
 
-Item Name: string\
-Description: string\
-Link?: string\
-Notes?: string\
-LastOrdered?:string
+Item Name: String\
+Description: String\
+Link?: String\
+Notes?: String\
+LastOrdered?: String
 
 *Concepts and Designs*
 Main Page
