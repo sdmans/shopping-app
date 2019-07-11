@@ -24,6 +24,10 @@ LastOrdered:string
 
 *Concepts and Designs*
 Main Page
+Should include a description of the app and an item list view. 
+May also include recently posted and high priority items.
+View should vary based on whether a user is signed in or not.
+Signed out view could include instructions.
 
 Login View
 
