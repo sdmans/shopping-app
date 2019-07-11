@@ -16,11 +16,14 @@ Extra:
 Users can create a custom recipe that automatically adds all items to the list.
 
 *Item Schema* - What should each item object look like?
+
+---Item---
 Item Name: string
 Description: string
 Link: string
 Notes: string
 LastOrdered:string
+------
 
 *Concepts and Designs*
 Main Page
@@ -29,7 +32,15 @@ May also include recently posted and high priority items.
 View should vary based on whether a user is signed in or not.
 Signed out view could include instructions.
 
+Registration Page
+A registration form where users can create an account to use the application.
+This should include account creation via gmail and Facebook.
+
+Account Setup Page
+
 Login View
+A log in page for users to sign in when they already have credentials.
+Should allow you to login via gmail and Facebook accounts.
 
 Item Submission Form
 
