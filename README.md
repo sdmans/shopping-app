@@ -17,13 +17,11 @@ Users can create a custom recipe that automatically adds all items to the list.
 
 *Item Schema* - What should each item object look like?
 
----Item---
-Item Name: string
-Description: string
-Link: string
-Notes: string
-LastOrdered:string
-------
+Item Name: string\
+Description: string\
+Link?: string\
+Notes?: string\
+LastOrdered?:string
 
 *Concepts and Designs*
 Main Page
@@ -43,7 +41,7 @@ A log in page for users to sign in when they already have credentials.
 Should allow you to login via gmail and Facebook accounts.
 
 Item Submission Form
-
+Includes fields for any data the user is required to submit for their item.
 
 
 Here's what I'm planning to use!
