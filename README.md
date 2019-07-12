@@ -1,7 +1,7 @@
 # shopping-app
 *A simple grocery shopping application for roommates*
 
-* *Currently in the planning phase for this new project* *
+Currently in the planning phase for this new project
 
 **Goals**
 To create an app that lets users list items they need in case other group users happen to be able to pick them up.
@@ -43,7 +43,6 @@ Should allow you to login via gmail and Facebook accounts.
 Item Submission Form
 Includes fields for any data the user is required to submit for their item.
 
-
 Here's what I'm planning to use!
 
 * Angular | Framework
@@ -51,3 +50,7 @@ Here's what I'm planning to use!
 * An API for recipes (Currently researching)
 * Firebase |  Hosting
 * Angular Material | Framework
+
+Plan:
+* [ ] Finish ReadMe file with initial details about the project
+* [ ] Create initial designs for the project.
