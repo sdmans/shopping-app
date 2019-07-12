@@ -53,4 +53,6 @@ Here's what I'm planning to use!
 
 Plan:
 * [ ] Finish ReadMe file with initial details about the project
-* [ ] Create initial designs for the project.
+* [ ] Locate an API with the grocery information you'll need
+* [ ] Create basic idea for the project on Codepen, then link it here.
+* [ ] Create initial designs for the project
