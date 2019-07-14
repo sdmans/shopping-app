@@ -50,7 +50,7 @@ Here's what I'm planning to use!
 * An API for recipes (Currently researching)
 * Firebase |  Hosting
 * Angular Material | Framework
-* Figma | Initial UI designs
+* Figma or Gravit Designer | Initial UI designs
 
 Plan:
 * [ ] Finish ReadMe file with initial details about the project
