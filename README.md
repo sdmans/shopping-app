@@ -15,13 +15,15 @@ To create an app that lets users list items they need in case other group users 
 Extra:
 Users can create a custom recipe that automatically adds all items to the list.
 
-*Item Schema* - What should each item object look like?
+*Item Model* - What should each item object look like?
 
 Item Name: String\
 Description: String\
 Link?: String\
 Notes?: String\
 LastOrdered?: String
+
+*User Model* - The type of information a User's account will have.
 
 *Concepts and Designs*
 Main Page
