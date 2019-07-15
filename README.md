@@ -37,6 +37,7 @@ A registration form where users can create an account to use the application.
 This should include account creation via gmail and Facebook.
 
 Account Setup Page
+This should include a way for users to add roomates.
 
 Login View
 A log in page for users to sign in when they already have credentials.
@@ -57,5 +58,7 @@ Here's what I'm planning to use!
 Plan:
 * [ ] Finish ReadMe file with initial details about the project
 * [ ] Locate an API with the grocery information you'll need
-* [ ] Create basic idea for the project on Codepen, then link it here.
+* [ ] Test API for for intial information you need for the Item object
+* [ ] Create basic idea for the project on Codepen, then link it here
 * [ ] Create initial designs for the project
+
