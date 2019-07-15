@@ -38,6 +38,7 @@ This should include account creation via gmail and Facebook.
 
 Account Setup Page
 This should include a way for users to add roomates.
+Maybe give intial information about the roomate.
 
 Login View
 A log in page for users to sign in when they already have credentials.
@@ -45,6 +46,8 @@ Should allow you to login via gmail and Facebook accounts.
 
 Item Submission Form
 Includes fields for any data the user is required to submit for their item.
+
+Profile View
 
 Here's what I'm planning to use!
 
