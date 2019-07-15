@@ -48,6 +48,7 @@ Item Submission Form
 Includes fields for any data the user is required to submit for their item.
 
 Profile View
+This should allow to view current roommates, recently purchased items and recipes.
 
 Here's what I'm planning to use!
 
