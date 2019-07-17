@@ -4,7 +4,7 @@
 Currently in the planning phase for this new project
 
 **Goals**
-To create an app that lets users list items they need in case other group users happen to be able to pick them up.
+To create an app that lets users list items they need in case other group users happen to be able to pick them up!
 
 **Features**
 - Create a list of items for a shopping list that users can modify
@@ -14,6 +14,7 @@ To create an app that lets users list items they need in case other group users 
 
 Extra:
 Users can create a custom recipe that automatically adds all items to the list.
+Create way for users to add and just prices for these items and store those values.
 
 *Item Model* - What should each item object look like?
 
