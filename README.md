@@ -25,6 +25,10 @@ Notes?: String\
 LastOrdered?: String
 
 *User Model* - The type of information a User's account will have.
+List of roommates
+List of recently purchased items
+Favorites list
+Recipes
 
 *Concepts and Designs*
 Main Page
