@@ -73,5 +73,9 @@ Plan:
 * [ ] Create initial designs for the project
 
 Minimum Viable Product
-
+At a minimum, the app should do the following:
+* Create an account and login
+* Allow users to create a list of items they need from the grocery store
+* Create a list of roommates to select from in the account
+* Retrieve information about the item from an API
 
