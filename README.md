@@ -30,29 +30,30 @@ List of recently purchased items
 Favorites list
 Recipes
 
-*Concepts and Designs*
-Main Page
+*Concepts and Designs*\
+**View List**
+Main Page\
 Should include a description of the app and an item list view. 
 May also include recently posted and high priority items.
 View should vary based on whether a user is signed in or not.
 Signed out view could include instructions.
 
-Registration Page
+Registration Page\
 A registration form where users can create an account to use the application.
 This should include account creation via gmail and Facebook.
 
-Account Setup Page
+Account Setup Page\
 This should include a way for users to add roomates.
 Maybe give intial information about the roomate.
 
-Login View
+Login View\
 A log in page for users to sign in when they already have credentials.
 Should allow you to login via gmail and Facebook accounts.
 
-Item Submission Form
+Item Submission Form\
 Includes fields for any data the user is required to submit for their item.
 
-Profile View
+Profile View\
 This should allow to view current roommates, recently purchased items and recipes.
 
 Here's what I'm planning to use!
