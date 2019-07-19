@@ -31,7 +31,7 @@ Favorites list
 Recipes
 
 *Concepts and Designs*\
-**View List**
+**View List**\
 Main Page\
 Should include a description of the app and an item list view. 
 May also include recently posted and high priority items.
