@@ -4,17 +4,17 @@
 Currently in the planning phase for this new project
 
 **Goals**
-To create an app that lets users list items they need in case other group users happen to be able to pick them up!
+To create an app that lets roommates create a shared list of items they need for coordination and convenience!
 
 **Features**
 - Create a list of items for a shopping list that users can modify
-- Create an item history list for users to refer to rather than re-adding items
 - Create an account system for users to add their "Household"
-- Items retrieved from an API
+- Items retrieved from an API, and users can add the prices manually
 
 Extra:
 Users can create a custom recipe that automatically adds all items to the list.
 Create way for users to add and just prices for these items and store those values.
+Create an item history list for users to refer to rather than re-adding items
 
 *Item Model* - What should each item object look like?
 
