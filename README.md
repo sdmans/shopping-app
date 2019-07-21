@@ -72,8 +72,8 @@ Plan:
 * [ ] Finish ReadMe file with initial details about the project
 * [x] Create MVP for project. What do you need to get the functionality for the project working and what can wait?
 * [ ] Locate an API with the grocery information you'll need
-* [ ] Test API for for intial information you need for the Item object
-* [ ] Create basic idea for the project on Codepen, then link it here
+* [ ] Test API for for intial information you need for the Item object on Codepen
+* [ ] Create basic angular project connected to Firebase
 * [ ] Create initial designs for the project
 
 Minimum Viable Product
