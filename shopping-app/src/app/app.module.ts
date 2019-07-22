@@ -7,6 +7,11 @@ import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 
+/* Importing modules for Angular Material */
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatButtonModule, MatCheckboxModule, MatMenuModule, MatMenu, MatMenuItem } from '@angular/material';
+
+
 
 import { AppComponent } from './app.component';
 
@@ -16,6 +21,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AngularFireModule.initializeApp(environment.firebase), 
     AngularFirestoreModule,
     AngularFireAuthModule
