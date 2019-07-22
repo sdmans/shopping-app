@@ -69,7 +69,7 @@ Here's what I'm planning to use!
 * Angular Material | Framework
 * Figma, Gravit Designer, or hand drawn | Initial UI designs
 
-Plan:
+Plan: Initial Setup for Project Start
 * [x] Finish ReadMe file with initial details about the project
 * [x] Create MVP for project. What do you need to get the functionality for the project working and what can wait?
 * [x] Unable to locate API, will be using manual data.
