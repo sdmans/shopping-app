@@ -63,17 +63,18 @@ Here's what I'm planning to use!
 
 * Angular | Framework
 * Firebase | Database
-* An API for recipes (Currently researching)
+* Firebase Auth with RXJS | Authentication
+* Form Data | Data
 * Firebase |  Hosting
 * Angular Material | Framework
-* Figma or Gravit Designer | Initial UI designs
+* Figma, Gravit Designer, or hand drawn | Initial UI designs
 
 Plan:
-* [ ] Finish ReadMe file with initial details about the project
+* [x] Finish ReadMe file with initial details about the project
 * [x] Create MVP for project. What do you need to get the functionality for the project working and what can wait?
-* [x] Locate an API with the grocery information you'll need. Unable to locate API, resort to manual data entry.
-* [ ] Test API for for intial information you need for the Item object on Codepen
-* [ ] Create basic angular project connected to Firebase
+* [x] Unable to locate API, will be using manual data.
+* [x] Create basic angular project connected to Firebase
+* [ ] Add Angular Material to project
 * [ ] Create initial designs for the project
 
 Minimum Viable Product
