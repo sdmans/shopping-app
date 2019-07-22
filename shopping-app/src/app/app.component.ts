@@ -1,4 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+
+/* Testing retrieving data from Firebase */
+import { AngularFirestore, AngularFirestoreCollection } from '@angular/fire/firestore';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +10,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'shopping-app';
+
+  constructor (private afs: AngularFirestore) {
+
+  }
+
+  ngOnInit() {
+    console.log(this.afs)
+  }
 }
+
+
