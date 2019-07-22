@@ -66,7 +66,7 @@ Here's what I'm planning to use!
 * Firebase Auth with RXJS | Authentication
 * Form Data | Data
 * Firebase |  Hosting
-* Angular Material | Framework
+* Angular Material | Design Framework
 * Figma, Gravit Designer, or hand drawn | Initial UI designs
 
 Plan: Initial Setup for Project Start
@@ -80,7 +80,7 @@ Plan: Initial Setup for Project Start
 Minimum Viable Product
 At a minimum, the app should do the following:
 * Create an account and login
-* Allow users to create a list of items they need from the grocery store
+* Allow users to create a list of items they need from the store with a form
 * Create a list of roommates to select from in the account
-* Retrieve information about the item from an API
+* Store items in database to be accessed later to avoid repetition
 
