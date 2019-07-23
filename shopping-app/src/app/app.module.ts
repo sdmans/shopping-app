@@ -22,6 +22,8 @@ import { AppComponent } from './app.component';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+    // MatButtonModule, 
+    // MatCheckboxModule,
     AngularFireModule.initializeApp(environment.firebase), 
     AngularFirestoreModule,
     AngularFireAuthModule
